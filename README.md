@@ -1,5 +1,5 @@
 # Yo, I guess you found me 👋
-I go by IRC, and I’m an intellectual 15 year old from Europe with a passion for technology. I love offensive security and exploring a wide range of tech topics. Some of my interests are penetration testing, robotics, and web development, and right now, I’m trying to learn more regarding malware.
+I go by IRC, and I’m an intellectual 15 year old from Europe with a passion for technology. I love offensive security and exploring a wide range of tech topics. Some of my interests are penetration testing, robotics, linux, reverse engineering and web development, and right now, I’m trying to learn more regarding malware.
 <br>
 <br>
 Some languages I know are python, javascript, some c# and the very basics in golang.
